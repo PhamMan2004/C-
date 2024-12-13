@@ -1,0 +1,5 @@
+﻿Build started at 8:05 CH...
+1>------ Build started: Project: Lab04_01, Configuration: Debug Any CPU ------
+1>  Lab04_01 -> C:\Users\ASUS\Downloads\Lab04_01\Lab04_01\Lab04_01\bin\Debug\Lab04_01.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 8:05 CH and took 01,559 seconds ==========
